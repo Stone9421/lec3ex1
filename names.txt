@@ -1,1 +1,9 @@
 Tianshi Wang
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Kehan Jiang
+=======
+Han Zheng
+>>>>>>> refs/remotes/origin/master
+>>>>>>> 0f1a6606bd896c5b3bd250f4b262b1722ecd186b
